@@ -1,5 +1,5 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-<div align="center">  <img src="http://www.welllogging.cn/welllogging/zb_users/theme/tianxing/include/logo.gif"><br><br></div>
+<img align = "center" src="./pictures/logo.png" height=64 />
 <h1 align = "center">核磁共振测井综合解决方案</h1>
 
 
@@ -43,7 +43,10 @@
 
 
 
+---
+CIFLog平台案例：
 
+<img align = "center" src="./pictures/modulelist.png" height=256 />
 
 
 ---
