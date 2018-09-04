@@ -1,5 +1,6 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 <div align="center"><img src = "https://raw.githubusercontent.com/jemy225/NMROS/master/pictures/logo.png" hegiht=64></div>
+![pic](/pictures/logo.png)
 <h1 align = "center">核磁共振测井综合解决方案</h1>
 
 
