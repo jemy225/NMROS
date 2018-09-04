@@ -1,5 +1,5 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-<img align = "center" src="https://github.com/jemy225/NMROS/pictures/logo.png" height=64 />
+<div align="center"><img src = "./pictures/logo.png"></div>
 <h1 align = "center">核磁共振测井综合解决方案</h1>
 
 
@@ -46,7 +46,7 @@
 ---
 CIFLog平台案例：
 
-<img align = "center" src="https://github.com/jemy225/NMROS/pictures/modulelist.png" height=256 />
+<div align="center"><img src = "./pictures/modulelist.png"></div>
 
 
 ---
