@@ -46,7 +46,7 @@
 ---
 CIFLog平台案例：
 
-<div align="center"><img src = "http://github.com/jemy225/NMROS/raw/master/pictures/modulelist.png" width=56 height=56></div>
+<img  align="center" src = "https://raw.githubusercontent.com/jemy225/NMROS/master/pictures/modulelist.png" width=256 height=256>
 
 ---
 - 技术支持：jemy225@126.com
