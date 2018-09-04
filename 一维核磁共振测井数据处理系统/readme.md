@@ -3,10 +3,8 @@ formula1: $$n==x$$
 
 formula2: $$n!=x$$
 
-formula3: (m==y)
 
-formula4: [m!=y]
+公式1: $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
-formula5: \(k==z\)
+公式2: \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
-formula6: \[k!=z\]
