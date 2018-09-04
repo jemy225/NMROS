@@ -6,5 +6,5 @@ formula2: $$n!=x$$
 
 公式1: $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
-公式2: \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+公式2: (x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
