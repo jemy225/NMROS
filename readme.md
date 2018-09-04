@@ -1,8 +1,9 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
-<div align="center"><img src = "http://geoilog.com/Geoilog/pictures/logo.png" hegiht=64></div>
-<h1 align = "center">核磁共振测井综合解决方案</h1>
+![logo](https://raw.githubusercontent.com/jemy225/NMROS/master/pictures/logo.png)
 
+# 核磁共振测井综合解决方案
+---
 
 ## [一维核磁共振测井数据处理系统](./一维核磁共振测井数据处理系统/readme.md)
 
@@ -46,11 +47,10 @@
 
 ---
 CIFLog平台案例：
+![modulelist](https://raw.githubusercontent.com/jemy225/NMROS/master/pictures/modulelist.png)
 
-<div align="center"><img src = "http://geoilog.com/Geoilog/pictures/modulelist.png" width=256 height=256></div>
 
 ---
 - 技术支持：jemy225@126.com
 - 联系电话：15652663116
 - 微信公众号：小微测井
-
