@@ -46,17 +46,8 @@
 
 
 
-以下为测试内容：
-
-formula1: $$n==x$$
-
-formula2: $$n!=x$$
-
-
-公式1: $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-
-
-$$
- \varGamma(x) = \frac{\int_{\alpha}^{\beta} g(t)(x-t)^2\text{ d}t }{\phi(x)\sum_{i=0}^{N-1} \omega_i} \tag{2}
-$$
+---
+-技术支持：jemy225@126.com
+-联系电话：15652663116
+-微信公众号：小微测井
 
