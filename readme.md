@@ -1,5 +1,5 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
+更新时间：2018.09.04
 ![logo](https://raw.githubusercontent.com/jemy225/NMROS/master/pictures/logo.png)
 
 核磁共振测井综合解决方案
