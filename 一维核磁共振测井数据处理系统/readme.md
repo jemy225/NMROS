@@ -18,3 +18,6 @@ $$\left\{\begin{array}{cc}
 		1, & x=f(Pa_{x})\\ 
 		0, & other\ values 
 	\end{array}\right.$$
+
+
+[MRILP型仪器简介](MRILP型仪器简介.md)
