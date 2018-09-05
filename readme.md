@@ -17,7 +17,7 @@
 
 研发时间：2016年，最新版本1.0(2018)
 
-支持平台：CIFLog，Geolog，Forward.NET
+支持平台：CIFLog，$Geolog^TM$，Forward.NET
 
 ## [核磁共振脉冲序列设计系统](./核磁共振脉冲序列设计系统/readme.md)
 
