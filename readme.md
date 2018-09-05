@@ -2,8 +2,8 @@
 
 ![logo](https://raw.githubusercontent.com/jemy225/NMROS/master/pictures/logo.png)
 
-# 核磁共振测井综合解决方案
----
+核磁共振测井综合解决方案
+===
 
 ## [一维核磁共振测井数据处理系统](./一维核磁共振测井数据处理系统/readme.md)
 
