@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommonTableTemplate Name="null">
+<TableFieldItem>
+<FieldName>Name</FieldName>
+<FieldUnit>NULL</FieldUnit>
+<FieldType>7</FieldType>
+<FieldList/>
+<DefaultValue/>
+<FieldLength>16</FieldLength>
+</TableFieldItem>
+<TableFieldItem>
+<FieldName>Value</FieldName>
+<FieldUnit>NULL</FieldUnit>
+<FieldType>7</FieldType>
+<FieldList/>
+<DefaultValue/>
+<FieldLength>-1</FieldLength>
+</TableFieldItem>
+</CommonTableTemplate>
