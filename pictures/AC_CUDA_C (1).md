@@ -3,10 +3,7 @@
 ![CUDA](./images/CUDA_Logo.jpg)
 
 
-```math
-E = mc^2+56
-```
-
+$$E = mc^2+56$$
 
 Accelerated computing is replacing CPU-only computing as best practice. The litany of breakthroughs driven by accelerated computing, the ever increasing demand for accelerated applications, programming conventions that ease writing them, and constant improvements in the hardware that supports them, are driving this inevitable transition.
 
