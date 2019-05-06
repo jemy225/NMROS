@@ -1,4 +1,3 @@
-====
 <div align="center"><h1>Accelerating Applications with CUDA C/C++</h1></div>
 
 ![CUDA](./images/CUDA_Logo.jpg)
