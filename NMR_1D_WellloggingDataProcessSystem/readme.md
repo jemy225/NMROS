@@ -49,7 +49,7 @@ NMR_1D Welllogging Data Process System
 ----
 以下为测试内容：
 #
-formula1: $$n==x$$
+formula1: $$exp{\left(-\frac{2\tau}{T_2}-\left(\gamma\nabla H\right)^2\frac{2}{3}D\tau^3\right)}$$
 
 
 
