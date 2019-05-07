@@ -73,17 +73,18 @@ $$
 
 $$
 
-```
-graph TD
- A[10101010]-->B[2]
- B[222]---C[C]
- B[444]---|文本|D[D]
- B[555]---E[E]
- A-->E
- E-->F{?}
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+cond1=>condition: yes or no?
 
- F-->G[G]
- F-->H[H]
+st->op->cond
+cond(yes)->e
+cond(no)->cond1
+cond1(yes)->e
+cond1(no)->op
 ```
 
 
