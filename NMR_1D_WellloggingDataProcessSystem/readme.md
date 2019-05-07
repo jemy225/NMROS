@@ -73,18 +73,12 @@ $$
 
 $$
 
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-cond1=>condition: yes or no?
-
-st->op->cond
-cond(yes)->e
-cond(no)->cond1
-cond1(yes)->e
-cond1(no)->op
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
 ```
 
 
