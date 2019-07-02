@@ -14,9 +14,9 @@
 
 ## [NMR_XD Welllogging Data Process System](./NMR_XD_WellloggingDataProcessSystem/readme.md)
 
-研发时间：2016年，最新版本1.0(2018)
+研发时间：2016年，最新版本1.0(2019)
 
-支持平台：CIFLog，Geolog，Forward.NET
+支持平台：CIFLog，Forward.NET，Geolog
 
 ## [NMR Pulse Sequence Design System](./NMR_PulseSequenceDesignSystem/readme.md)
 
