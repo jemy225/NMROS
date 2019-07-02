@@ -21,6 +21,14 @@ NMR_1D Welllogging Data Process System
 
 #### LDF Format
 
+### 输入：
+- [x] 1.原始数据全路径
+- [x] 2.输出文件全路径
+### 输出：
+- [x] 1.用户勾选的所有曲线
+- [x] 2.原始数据提取的参数
+### 参数：
+- [x] 1.用户勾选参数列表
 
 ## Echo Process Module 
  - Short name: [EchoForm]
